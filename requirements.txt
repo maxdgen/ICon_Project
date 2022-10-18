@@ -1,0 +1,12 @@
+Experta
+frozendict==1.2
+joblib>=0.11
+matplotlib
+numpy>=1.14.6
+Owlready2
+pandas
+schema==0.6.7
+scikit-learn
+scipy>=1.1.0
+seaborn
+threadpoolctl>=2.0.0
